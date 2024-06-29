@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="35">,</h1>
- Hello, It's Kaleb </h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="75"> It's Kaleb</h1>
+ </h1>
 <h3 align="center"> I'm a Computer Science student and Full Stack Web Developer with a passion for Cybersecurity and Machine Learning.</h3>
 
 <!--Profile Badges-->
