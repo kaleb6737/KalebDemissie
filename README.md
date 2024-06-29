@@ -3,11 +3,11 @@
 <h3 align="center">I'm a Computer Science student and Full Stack Web Developer with a passion for Cybersecurity and Machine Learning.</h3>
 
 <!-- Profile Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaleb6737&color=red&style=for-the-badge" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/kaleb6737?color=orange&style=for-the-badge" alt="GitHub Followers">
-  <img src="https://img.shields.io/badge/Favorite%20IDE-Vscode-blue?style=for-the-badge" alt="Favorite IDE">
-</p>
+![](https://komarev.com/ghpvc/?username=kaleb6737&color=red&style=for-the-badge)
+![](https://img.shields.io/github/followers/kaleb6737?color=orange&style=for-the-badge)
+![](https://img.shields.io/badge/Favorite%20IDE-Vscode-blue?style=for-the-badge)
+
+
 
 ## About Me
 
