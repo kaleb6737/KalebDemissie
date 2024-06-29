@@ -7,17 +7,16 @@
 ![](https://img.shields.io/github/followers/Captain-Kad?color=orange&style=for-the-badge)
 ![](https://img.shields.io/badge/Favorite%20IDE-Vscode-blue?style=for-the-badge)
 
-## About me
-
-- 💼 I'm a student at **Wilfrid Laurier University**
-
-- 🎓 I'm currently studying **Computer Science**
-
-- 🔭 I’m currently learning about **Neural Networks and DeepLearning**
-
-- 📫 How to reach me: @kalebDemissie61@gmail.com
-
-- ⚡ Fun fact: ** I play the guitar and write songs**
+##About Me
+🎓 Education: Pursuing my passion for tech at Wilfrid Laurier University
+💻 Major: Immersed in the fascinating world of Computer Science
+🧠 Current Focus: Diving deep into Neural Networks and Deep Learning
+📬 Contact: Reach out to me at kalebDemissie61@gmail.com
+🎸 Fun Fact: I rock out on the guitar and write my own songs
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="mailto:kalebDemissie61@gmail.com"><img src="https://img.icons8.com/clouds/100/000000/email.png" width="50" alt="Email"/></a>
+</p>
 
 ## Connect with me
 <p align="left">
