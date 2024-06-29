@@ -85,3 +85,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kaleb6737&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Kaleb's GitHub Stats" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaleb&theme=tokyonight&hide_border=true" alt="Kaleb's GitHub Streak" height="165">
 </div>
+<div align="center" margin-top="5px">
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleb6737&langs_count=5&theme=gotham&card_width=1000)
+    
+</div>
