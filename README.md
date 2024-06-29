@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="75"> It's Kaleb</h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="75">, It's Kaleb</h1>
  </h1>
 <h3 align="center"> I'm a Computer Science student and Full Stack Web Developer with a passion for Cybersecurity and Machine Learning.</h3>
 
@@ -17,7 +17,7 @@
 
 - 📬 Contact: Reach out to me at kalebDemissie61@gmail.com
 
-- 🎸 Fun Fact: I rock out on the guitar and write my own songs
+- 🎸 Fun Fact: I playthe guitar and write my own songs
 
 
 ## Connect with me
@@ -54,7 +54,7 @@
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kaleb&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Kaleb's Stats" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=kaleb6737&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Kaleb's Stats" height="165">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaleb&theme=tokyonight&hide_border=true" alt="Kaleb's Streak" height="165">
   </p>
 </div>
